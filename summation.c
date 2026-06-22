@@ -1,16 +1,16 @@
 #include <stdio.h>
-int fact(int n)
+int sum(int n)
 {
     if (n <= 1)
         return 1;
     else
-        return n * fact(n - 1);
+        return n + sum(n - 1);
 }
 int main()
 {
     int n;
     printf("Enter the number: ");
     scanf("%d", &n);
-    printf("The factorial of %d is: %d", n, fact(n));
+    printf("The summation of %d is: %d", n, sum(n));
     return 0;
 }
