@@ -1,0 +1,10 @@
+print("Hellow Saif !")
+r= input("Give us the name you want identity about = ")
+Sajid = print ("22 years old.\n He has a job of tution media.\n He is intelligent but bad as a money user. And very bad in computer sience.")
+Raihan = print ("Age= 20\n Good looking boy. But bad n management and intelligence. He is afraid of gost.\n He is very popular as DHONMIYA!")
+Sajid_samll = print ("Age= 22 \n Very good in computer science compare to us. But bad is talk with other people in turms of know what to keep secret and what to not. And very bad in reading the situation. \n Known as JOGENDER HIJRA.")
+Protik = print ("Age= 22\n Good in computer sience but bad in math and management.\n Afraid of doing too much of responsible work.\n He is popular as *Senior cudi na*  ")
+Naim = print ("Still in the reveling phase")
+print ("Information of the person",r)
+
+
