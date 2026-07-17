@@ -9,10 +9,12 @@ struct circular_queue
     int count;
     int *arr;
 };
+
 int isFull(struct circular_queue *q)
 {
     return q->size == q->count;
 }
+
 void enqueue(struct circular_queue *q, int value)
 {
     if (isFull(q))
@@ -32,6 +34,7 @@ int isEmpty(struct circular_queue *q)
 {
     return q->count == 0;
 }
+
 int dequeue(struct circular_queue *q)
 {
     if (isEmpty(q))
@@ -75,7 +78,7 @@ int main()
     printf("\nDequeuing item %d", dequeue(&q));
     printf("\nDequeuing item %d", dequeue(&q));
     printf("\nDequeuing item %d", dequeue(&q));
-    
+
     if (isEmpty(&q))
     {
         printf("\nThe queue is empty.");
