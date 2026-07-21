@@ -63,7 +63,7 @@ DSA Assignment
 | Language | C |
 | Type | University Laboratory Work |
 | Semester | 2nd semester |
-| Instructor | Abir sir |
+| Instructor | Mr Abir Hussain |
 
 ---
 
