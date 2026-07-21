@@ -2,7 +2,7 @@
 
 Data Structures & Algorithms Laboratory Repository
 
-📖 About
+# 📖 About
 
 This repository contains all of my **Data Structures & Algorithms (DSA)** laboratory assignments completed during my course.
 
