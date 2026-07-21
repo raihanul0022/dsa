@@ -1,4 +1,4 @@
-## 📚 DSA Assignment
+# 📚 DSA Assignment
 
 Data Structures & Algorithms Laboratory Repository
 
