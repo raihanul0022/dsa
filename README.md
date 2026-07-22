@@ -24,6 +24,7 @@ DSA Assignment
 │   ├── 📁 Dynamic Array
 │   ├── 📁 Recursion
 │   ├── 📁 Stack
+│   ├── 📁 Array Searching
 │   └── 📁 ...
 │
 ├── 📁 Home Work
@@ -43,6 +44,8 @@ DSA Assignment
 - Dynamic Array
 - Recursion
 - Stack
+- Array Searching
+
 
 ---
 
