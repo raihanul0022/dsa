@@ -1,45 +1,45 @@
-# 📚 DSA Assignment
+# DSA Assignment
 
 Data Structures & Algorithms Laboratory Repository
 
-# 📖 About
+# About
 
 This repository contains all of my **Data Structures & Algorithms (DSA)** laboratory assignments completed during my course.
 
 The repository is organized into two main sections:
 
-- 📘 **Class Work** – Programs and implementations completed during lab classes.
-- 📝 **Home Work** – Practice problems and assignments completed outside the classroom.
+- **Class Work** – Programs and implementations completed during lab classes.
+- **Home Work** – Practice problems and assignments completed outside the classroom.
 
 Each section contains topic-wise folders.
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 DSA Assignment
 │
-├── 📁 Class Work
-│   ├── 📁 Dynamic Array
-│   ├── 📁 Recursion
-│   ├── 📁 Stack
-│   ├── 📁 Array Searching
-│   └── 📁 ...
+├── Class Work
+│   ├──  Dynamic Array
+│   ├──  Recursion
+│   ├──  Stack
+│   ├──  Array Searching
+│   └──  ...
 │
-├── 📁 Home Work
-│   ├── 📁 Linked List
-│   ├── 📁 Queue
-│   ├── 📁 Recursion
-│   └── 📁 ...
+├── Home Work
+│   ├──  Linked List
+│   ├──  Queue
+│   ├──  Recursion
+│   └──  ...
 │
 └── README.md
 ```
 ---
 
-# 📚 Topics Covered
+# Topics Covered
 
-## 📘 Class Work
+## Class Work
 
 - Dynamic Array
 - Recursion
@@ -49,7 +49,7 @@ DSA Assignment
 
 ---
 
-## 📝 Home Work
+## Home Work
 
 - Linked List
 - Queue
@@ -57,7 +57,7 @@ DSA Assignment
 
 ---
 
-# 📅 Course Information
+# Course Information
 
 | Item | Details |
 |------|---------|
@@ -70,7 +70,7 @@ DSA Assignment
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Name:** Raihanul Islam
 
@@ -80,13 +80,11 @@ DSA Assignment
 
 ---
 
-# 📈 Future Additions
+# Future Additions
 
-- [ ] Trees
-- [ ] Binary Search Tree
-- [ ] AVL Tree
-- [ ] Heap
-- [ ] Graph
-- [ ] Hash Table
-- [ ] Sorting Algorithms
-- [ ] Searching Algorithms
+-  Trees
+-  Binary Search Tree
+-  AVL Tree
+-  Graph
+-  Hash Table
+-  Sorting Algorithms
