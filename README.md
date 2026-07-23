@@ -24,13 +24,14 @@ DSA Assignment
 │   ├──  Dynamic Array
 │   ├──  Recursion
 │   ├──  Stack
-│   ├──  Array Searching
+│   ├──  Searching
 │   └──  ...
 │
 ├── Home Work
 │   ├──  Linked List
 │   ├──  Queue
 │   ├──  Recursion
+│   ├──  Sorting
 │   └──  ...
 │
 └── README.md
@@ -43,6 +44,7 @@ DSA Assignment
 
 - Dynamic Array
 - Recursion
+- Searching
 - Stack
 - Array Searching
 
@@ -54,6 +56,7 @@ DSA Assignment
 - Linked List
 - Queue
 - Recursion
+- Sorting
 
 ---
 
