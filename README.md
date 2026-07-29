@@ -23,8 +23,8 @@ DSA Assignment
 ├── Class Work
 │   ├──  Dynamic Array
 │   ├──  Recursion
-│   ├──  Stack
 │   ├──  Searching
+│   ├──  Stack
 │   └──  ...
 │
 ├── Home Work
@@ -43,20 +43,18 @@ DSA Assignment
 ## Class Work
 
 - Dynamic Array
-- Recursion
-- Searching
+- Recursion(Factorial,Summation)
+- Searching(Binary search,Linear search)
 - Stack
-- Array Searching
-
 
 ---
 
 ## Home Work
 
 - Linked List
-- Queue
+- Queue(Queue,Circular queue)
 - Recursion
-- Sorting
+- Sorting(Bubblegum,Insertion,Redix)
 
 ---
 
