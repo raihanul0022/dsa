@@ -45,7 +45,7 @@ DSA Assignment
 - Dynamic Array
 - Recursion(Factorial,Summation)
 - Searching(Binary search,Linear search)
-- Stack
+- Stack(Stack implementation,Reverse_numebrs)
 
 ---
 
