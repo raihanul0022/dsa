@@ -54,7 +54,7 @@ DSA Assignment
 - Linked List
 - Queue(Queue,Circular queue)
 - Recursion
-- Sorting(Bubblegum,Insertion,Redix)
+- Sorting(Bubblegsort,Insertion,Redix)
 - String(Frequency)
 
 ---
