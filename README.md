@@ -32,7 +32,7 @@ DSA Assignment
 │   ├──  Queue
 │   ├──  Recursion
 │   ├──  Sorting
-│   └──  ...
+│   └──  String
 │
 └── README.md
 ```
@@ -54,7 +54,8 @@ DSA Assignment
 - Linked List
 - Queue(Queue,Circular queue)
 - Recursion
-- Sorting(Bubblegum,Insertion,Redix)
+- Sorting(Bubblegsort,Insertion,Redix)
+- String(Frequency)
 
 ---
 
@@ -87,5 +88,3 @@ DSA Assignment
 -  Binary Search Tree
 -  AVL Tree
 -  Graph
--  Hash Table
--  Sorting Algorithms
