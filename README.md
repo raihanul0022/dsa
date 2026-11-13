@@ -24,15 +24,15 @@ DSA Assignment
 │   ├──  Dynamic Array
 │   ├──  Recursion
 │   ├──  Searching
-│   ├──  Stack
-│   └──  ...
+│   └──  Stack
 │
 ├── Home Work
 │   ├──  Linked List
 │   ├──  Queue
 │   ├──  Recursion
 │   ├──  Sorting
-│   └──  String
+│   ├──  String
+│   └──  Tree
 │
 └── README.md
 ```
@@ -56,6 +56,7 @@ DSA Assignment
 - Recursion
 - Sorting(Bubblegsort,Insertion,Redix)
 - String(Frequency,String ADT)
+- Tree ADT
 
 ---
 
@@ -84,7 +85,6 @@ DSA Assignment
 
 # Future Additions
 
--  Trees
 -  Binary Search Tree
 -  AVL Tree
 -  Graph
