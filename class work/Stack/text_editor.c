@@ -87,8 +87,8 @@ void free_stack(Stack* stack)
 int main()
 {
     int choice;
-    Stack* s1 = create_stack(5);   // current text / undo stack
-    Stack* s2 = create_stack(5);   // redo stack
+    Stack* s1 = create_stack(5);   
+    Stack* s2 = create_stack(5);   
 
     push(s1, 'a');
     push(s1, 'b');
@@ -127,7 +127,7 @@ int main()
             printf("Enter character to type: ");
             scanf(" %c", &c);
             push(s1, c);
-            clear_stack(s2);   // new edit invalidates the old redo history
+            clear_stack(s2);   
             display(s1);
         }
         else {
